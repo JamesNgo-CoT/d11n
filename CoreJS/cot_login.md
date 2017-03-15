@@ -4,14 +4,14 @@
 
 Constructor | Description
 --- | ---
-cot_login(options) | -
+`cot_login`(options) | -
 
 Property | Description
 --- | ---
-options: object | -
-modal: object | -
-_login: function | 
-_setUserName: function | -
+`options`: object | -
+`modal`: object | -
+`_login`: function | 
+`_setUserName`: function | -
 
 Method | Description
 --- | ---
