@@ -6,7 +6,7 @@ AKA documentation.
 
 ### cot_app
 
-- addForm method does not add the new form into the forms property.
+- The addForm method does not add the new form into the forms property.
 
 ### cot_form
 
